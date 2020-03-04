@@ -9,5 +9,5 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "py -3 .\find_meteors.py"
+pipenv run py -3 "".\meteors\find_meteors.py"
 ```
